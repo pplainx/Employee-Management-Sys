@@ -25,3 +25,6 @@ How do you deliver this? Here are some guidelines:
 * This app utilizes console.table to print MySQL rows to the console.
 
 * This app includes a `seed.sql` file to pre-populate the database.
+
+video:
+https://drive.google.com/file/d/1ONcvl-QI6m35L0XhwkGoDXW9o3-jQSrF/view?usp=sharing
